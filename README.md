@@ -6,7 +6,7 @@
 
 **AI4LI** aims to research and develop technological solutions, tools, and software to support augmentative and alternative communication (AAC). These solutions are designed to run on smartphones, smart devices, and computers, enabling everyone—regardless of their abilities, circumstances, or characteristics—to participate fully in all aspects of life, including daily activities, work, education, and entertainment.
 
-![AI4LI Visual](./images/ai4li-intro.png)
+![AI4LI Visual](/images/ai4li-intro.png)
 
 ## Core Technologies
 
