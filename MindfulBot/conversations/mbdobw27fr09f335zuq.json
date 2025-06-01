@@ -1,0 +1,18 @@
+{
+  "id": "mbdobw27fr09f335zuq",
+  "title": "Chào cậu ...",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Chào cậu ",
+      "timestamp": "2025-06-01T13:05:48.701Z"
+    },
+    {
+      "role": "bot",
+      "content": "\nChào bạn! 😊 Có chuyện gì mình có thể giúp bạn không?",
+      "timestamp": "2025-06-01T13:05:48.701Z"
+    }
+  ],
+  "created_at": "2025-06-01T13:05:52.736Z",
+  "updated_at": "2025-06-01T13:05:52.736Z"
+}
